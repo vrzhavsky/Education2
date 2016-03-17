@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class DogList {
-	String[] name = {"Bamb","Skip","Oz","Bra","Swe","Bud","Fun","Ted","Cod","Mo"};
+	String[] name = {"bamb","skip","oz","bra","swe","bud","fun","ted","cod","mo"};
 	String[] addName = {"ble","py","zy","za","ety","dy","ky","dy","dy","ody"};
 	
 	int nameLength = name.length;
@@ -18,7 +18,6 @@ public class DogList {
 	int[] fullAge;
 	String sizePrint;
 
-	
 	public void Dogs () {
 		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);

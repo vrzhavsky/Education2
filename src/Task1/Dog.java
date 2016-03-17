@@ -31,8 +31,6 @@ public Dog(String name, String size, int age){
 public void printDog(){
 	System.out.println(this.name +" | " + this.size +" | " + this.age);
 }
-
-
-  
+ 
 }
 
