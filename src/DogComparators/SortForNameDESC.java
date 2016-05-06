@@ -1,6 +1,8 @@
-package Task1;
+package DogComparators;
 
 import java.util.Comparator;
+
+import DogModel.Dog;
 
 public class SortForNameDESC implements Comparator<Dog> {
 
